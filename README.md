@@ -1,25 +1,7 @@
-# Hello Word
-
-A new Flutter project created with [FlutLab](https://flutlab.io)
-
-### Getting Started: FlutLab - Flutter Online IDE
-
-- Watch Mini crash course "How to use Flutter Widgets” on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
-- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
-- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
-
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
-
-### Getting Started: Flutter
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+my simple first app in flutter is used to convert the temperature from fahrenheit to celsius with splash screen and two themes light and dark
+#Splash Screen    #them of light       #them of dark          #exmple from convert temperature
+![Screenshot_2021-02-13-02-19-25](https://user-images.githubusercontent.com/26661823/107835700-19825200-6da3-11eb-8432-77ec0d053918.png)
+![Screenshot_2021-02-13-02-18-11](https://user-images.githubusercontent.com/26661823/107835766-4fbfd180-6da3-11eb-9547-150083016237.png)
+![Screenshot_2021-02-13-02-18-19](https://user-images.githubusercontent.com/26661823/107835809-70882700-6da3-11eb-9121-bf081259edf6.png)
+![Screenshot_2021-02-13-02-18-54](https://user-images.githubusercontent.com/26661823/107835850-901f4f80-6da3-11eb-9805-eaebd840ef2f.png)
 
